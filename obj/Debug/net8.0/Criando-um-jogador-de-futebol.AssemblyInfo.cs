@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criando-um-jogador-de-futebol")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893f10dbedeccd770c19822ddfad8db4daa2b70f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criando-um-jogador-de-futebol")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criando-um-jogador-de-futebol")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

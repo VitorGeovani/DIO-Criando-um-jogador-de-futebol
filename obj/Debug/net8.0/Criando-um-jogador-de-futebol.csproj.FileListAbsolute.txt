@@ -12,3 +12,4 @@ D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-u
 D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-um-jogador-de-futebol\obj\Debug\net8.0\Criando-um-jogador-de-futebol.pdb
 D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-um-jogador-de-futebol\obj\Debug\net8.0\Criando-um-jogador-de-futebol.genruntimeconfig.cache
 D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-um-jogador-de-futebol\obj\Debug\net8.0\ref\Criando-um-jogador-de-futebol.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Criando-um-jogador-de-futebol\obj\Debug\net8.0\Criando-um-jogador-de-futebol.sourcelink.json

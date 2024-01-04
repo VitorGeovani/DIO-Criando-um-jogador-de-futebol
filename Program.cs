@@ -15,11 +15,11 @@ class Jogador
         Posicao = posicao;
 
         Console.WriteLine();
-        Console.WriteLine( "Jogador criado!" );
-        Console.WriteLine( Nome );
-        Console.WriteLine( Nacionalidade );
-        Console.WriteLine( Idade );
-        Console.WriteLine( "Posição: " + Posicao );
+        Console.WriteLine("Jogador criado!");
+        Console.WriteLine(Nome);
+        Console.WriteLine(Nacionalidade);
+        Console.WriteLine(Idade);
+        Console.WriteLine($"Posição: {Posicao}");
         
     }
 }
